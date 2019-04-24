@@ -52,15 +52,7 @@ header{
 }
 
 
-@media screen and (max-width: 1108px) {
-  .man {
-	position: absolute;	
-	z-index: 5;
-	left: 57%;
-	top: 113px;
-}
 
-}
 
 .nav{
 	display:block;
@@ -1352,3 +1344,143 @@ overflow: 	hidden;}
  -o-transform: scale(1.1);}
 
 
+@media screen and (max-width: 500px) {
+	.imglove{
+		width: 100%;
+	}
+	.love {
+		width: 100%;
+	}
+
+	.imgwater {
+		width: 100%;
+	}
+
+	.tree{
+		width: 100%;
+	}
+
+	.imgtree{
+		width: 100%;
+	}
+	.water{
+		width: 100%;
+	}
+
+	.foto1{
+		width: 100%;
+	}
+
+	.foto2{
+		width: 100%;
+	}
+
+	.foto3{
+		width: 100%;
+	}
+	.foto4{
+		width: 100%;
+	}
+	.foto5{
+		width: 100%;
+	}
+
+	.gal1{
+		width: 100%;
+	}
+	.gal2{
+		width: 100%;
+	}
+	.gal3{
+		width: 100%;
+	}
+	.gal4{
+		width: 100%;
+	}
+	.gal5{
+		width: 100%;
+	}
+	.gal6{
+		width: 100%;
+	}
+
+	.icons{
+		display: none;
+	}
+	.contactform{
+		margin:0;
+	}
+	.send{}
+
+	.man{
+		display: none;
+	}
+	.frame{
+    width: 100%;
+    margin: 0;
+    border:none;
+	}
+   .frame p:nth-child(3){ margin: 0;
+    padding: 0;
+    width: 100%;
+   
+}
+
+     .frame p:nth-child(2){   width: 100%;
+    padding: 0;
+     margin: 15px 0;
+}
+
+    .frame h1 {
+    	width: 100%;
+    	margin:0;
+    }
+
+    .frame a {
+    	margin:0;
+    }
+
+    .lorem2 {
+    	    color: black;
+    
+    font-size: 20px;
+    margin:0;
+    width: 100%;
+    }
+    .circle1,.circle2,.circle3,.circle4{
+    	margin:0;
+    }
+
+    .icontext p:nth-child(1),
+    .icontext p:nth-child(2), 
+    .icontext p:nth-child(3),
+    .icontext p:nth-child(4) {
+    	width: 100%;
+    }
+
+    .fivefotos {
+    	background-size: cover;
+    }
+
+    .contactform input:nth-child(1),
+     .contactform input:nth-child(2),
+     .contactform input:nth-child(3),.phoneform,
+     .emailform, .send{
+     	    padding: 20px 25px;
+     }
+
+     .last ul li {
+     	padding: 0;
+     }
+
+     .caption h2 {
+     	margin-top: 25px;
+     }
+
+     .name2{
+     	padding: 23px 40px;
+     }
+
+     
+
+}
